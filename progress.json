@@ -383,5 +383,14 @@
       "Congratulations on cracking the case! You found the hacker!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "bonsai-tree",
+    "started_at": 1787579687.526872,
+    "completed_at": 1787579689.49639,
+    "comments": [
+      "Great work on using branches to maintain the care notes for your bonsai trees!"
+    ],
+    "status": "Completed"
   }
 ]
