@@ -428,5 +428,14 @@
       "No module named 'exercise_utils.exercise_config'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "create-pr-from-main",
+    "started_at": 1787581040.586111,
+    "completed_at": 1787581043.667797,
+    "comments": [
+      "No module named 'exercise_utils.exercise_config'"
+    ],
+    "status": "Error"
   }
 ]
