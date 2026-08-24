@@ -392,5 +392,14 @@
       "Great work on using branches to maintain the care notes for your bonsai trees!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787579728.063154,
+    "completed_at": 1787579729.337855,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
   }
 ]
